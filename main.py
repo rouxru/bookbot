@@ -62,7 +62,7 @@ def main():
     num_words = get_num_words(text)
     chars_dict = get_character_count(text)
     chars_sorted_list = chars_dict_to_sorted_list(chars_dict)
-    print("--- Begin report of books/frankenstein.txt ---")
+    print(f"--- Begin report of {book_path} ---")
     generate_report(num_words=num_words, chars_sorted_list=chars_sorted_list)
     print("--- End report ---\n")
 
