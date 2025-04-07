@@ -2,7 +2,7 @@
 
 ## Description:
 
-BookBot is my first self-driven git project!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 It is a script which generates a report based on a given book
 
